@@ -1,8 +1,9 @@
 # @ssolh2906, Solhee Park, Holsui
 
- - Want to make world better place with programming.... I know it's cliche But who cares?
+ - Want to make world better place with programming.... I know it's cliche Hahah
 
- - Learning Android Programming (..with Kotlin) / Linux System Programming + OS basic
+ - Focus now : Android Programming (..with Kotlin) / Linux System Programming + OS basic
+ - Also Interested in : Python, C++
  
  - Language : Korean native, English 
 
