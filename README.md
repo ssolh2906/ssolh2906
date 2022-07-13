@@ -14,11 +14,19 @@
 </br>
 
   
-  # Blog
+  # Links
 
+ ## Blog
+ 
  - https://holsui.tistory.com/
  
- </br>
+
+ 
+ ## BOJ
+ 
+ [![https://solved.ac/profile/ssol2906](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssol2906)](https://solved.ac/ssol2906)
+ 
+  </br>
 
 # Educational Background
 
