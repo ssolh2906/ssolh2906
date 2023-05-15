@@ -31,7 +31,7 @@
 # Educational Background
 
 ### Kyung Hee University
- - Grauduate 2023 Feb (expected)
+ - Grauduate 2023 Feb
 ### Major
  - Computer Science Engineering, Horticultural Biotechnology Engineering
 ### Courses
