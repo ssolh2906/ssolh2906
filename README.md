@@ -17,6 +17,8 @@
 
 ### Focus now &nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 
+... MVVM, MultiModule Application, Clean Architecter, Dependency Injection ... 
+
 ### Also Interested in &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> 
 
 </br>
