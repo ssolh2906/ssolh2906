@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=SolheeParkTucker&fontSize=45&theme=merko&&fontAlign=70&fontAlignY=40)
 
-# Bio
-- 
+# Summary 
+
+- Passionate Android Programmer
+- BS : Computer Science and Engineering
+- Location : Los Gatos, CA, USA
 
 # Goal
+
 - Make world better place with programming
 - Programmer seeking for the answer
 
@@ -20,7 +24,7 @@
   
   # Links
 
- ## Linked In
+ ## LinkedIn
 
  - www.linkedin.com/in/solhee-park-214110227
 
@@ -36,6 +40,11 @@
  [![https://solved.ac/profile/ssol2906](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssol2906)](https://solved.ac/ssol2906)
  
   </br>
+
+# Experience
+
+### Supergene Inc (South Korea)
+ - 2022.AUG - 2023.OCT as Android Programmer, mobile SNS application
 
 # Educational Background
 
