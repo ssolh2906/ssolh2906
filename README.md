@@ -2,22 +2,19 @@
 
 # Summary 
 
-- Passionate Android Programmer
-- BS : Computer Science and Engineering
+- Passionate Junior Android Programmer
+- BS : Computer Science and Engineering (Graduated : 2023)
 - Location : Los Gatos, CA, USA
 
 # Goal
 
 - Make world better place with programming
-- Programmer seeking for the answer
-
-</br></br>
 
 # Stack
 
 ### Focus now &nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 
-... MVVM, MultiModule Application, Clean Architecter, Dependency Injection, Android on Wearable ... 
+... MVVM, MultiModule Application, Clean Architecter, OOP, Dependency Injection, Android on Wearable ... 
 
 ### Also Interested in &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> 
 
@@ -28,12 +25,12 @@
 
  ## LinkedIn
 
- - www.linkedin.com/in/solhee-park-214110227
+ - https://www.linkedin.com/in/solhee-tucker-214110227/
 
 
  ## Blog
  
- - https://holsui.tistory.com/
+ - https://holsui.tistory.com/ (Written in Korean)
  
 
  
@@ -46,7 +43,17 @@
 # Experience
 
 ### Supergene Inc (South Korea)
- - 2022.AUG - 2023.OCT as Android Programmer, mobile SNS application
+ - 2022.AUG - 2023.OCT as Android Programmer
+ - Develope mobile SNS application
+ - Kotlin
+ - Migration from View to Compose
+ - MVVM, Multi Module, Dependency Injection, Multithreading
+
+### GazziLabs Co (South Korea)
+- 2021.OCT - 2022.JAN
+- Data Labeling
+- Automated the repetitive and time-consuming process of aggregating labelling results; using Python
+- Create guidelines to help other team members understand
 
 # Educational Background
 
@@ -58,6 +65,9 @@
  - OPP
  - Data Structure
  - Algorithm Analysis
+ - Computer Architecture
+ - Operating Systems
+ - Computer Networking
  ...
 
  </br>
@@ -65,13 +75,3 @@
  # Language 
   - Korean native 
   - English 
-
- 
- # ETC
-
- - CAT PERSON / LONGBOARDER / ACNH play time 400+
-
-
-
-
-
