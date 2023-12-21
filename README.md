@@ -25,7 +25,7 @@
 
  ## LinkedIn
 
- - https://www.linkedin.com/in/solhee-tucker-214110227/
+ - [https://www.linkedin.com/in/solhee-tucker-214110227/](https://www.linkedin.com/in/solpt/)
 
 
  ## Blog
