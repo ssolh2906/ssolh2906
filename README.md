@@ -2,9 +2,10 @@
 
 # Summary 
 
-- Passionate Junior Android Programmer
-- BS : Computer Science and Engineering (Graduated : 2023)
-- Location : Los Gatos, CA, USA
+- Bioinformatian
+- MS Bioinformatics student San Jose State University
+- BS: Computer Science and Engineering, Horticulture Biotechnology (Graduated : 2023)
+- Location : San Jose, CA, USA
 
 # Goal
 
@@ -12,11 +13,8 @@
 
 # Stack
 
-### Focus now &nbsp; <img alt="Static Badge" src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-
-... MVVM, MultiModule Application, Clean Architecter, OOP, Dependency Injection, Android on Wearable ... 
-
-### Also Interested in &nbsp; <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> 
+<img alt="Static Badge" src="https://img.shields.io/badge/android-%233DDC84?style=for-the-badge&logo=android&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>&nbsp;<img alt="Static Badge" src="https://img.shields.io/badge/jetpackcompose-%234285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 
 </br>
 
@@ -31,6 +29,7 @@
  ## Blog
  
  - https://holsui.tistory.com/ (Written in Korean)
+ - https://seqpt.blogspot.com/
  
 
  
