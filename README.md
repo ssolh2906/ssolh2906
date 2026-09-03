@@ -11,6 +11,9 @@ I am a problem solver at the intersection of **Computer Science** and **Biotechn
 
 ---
 
+### Portfolio
+[portfolio](https://my-portfolio-five-amber-97.vercel.app/)
+
 ### Highlights & Featured Projects
 
 #### SNP Summary (SJSU Bioinformatics Hackathon 2025 Champion) 
