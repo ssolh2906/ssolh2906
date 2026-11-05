@@ -8,60 +8,60 @@
 
 </div>
 
-### 👋 Hi, I'm Sol
+### Hi, I'm Sol
 
-- 🔥 **Campfire of the team.** People come closer, speak up, and start building together around me.
-- 🛠️ **I turn hard problems into software that people enjoy using.**
-  - 🎨 Approachable UI · 🧱 Clean & robust architecture · ✅ Solid tests · 📐 A bit of math where it counts
+- **Campfire of the team.** People come closer, speak up, and start building together around me.
+- **I turn hard problems into software that people enjoy using.**
+  - Approachable UI · Clean & robust architecture · Solid tests · A bit of math where it counts
 
 <br/>
 
-| 💻 Engineer first | 🧬 Speaks biology | 🥇 Builds fast |
+| Engineer first | Speaks biology | Builds fast |
 | :--- | :--- | :--- |
 | Ex-Android engineer. Kotlin, Clean Architecture, TDD. | MS Bioinformatics @ SJSU. NGS, 16S, single-cell. | 2× Hackathon Champion. RAG app in 48 hours. |
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| | Project | What it does | Stack |
-| :---: | :--- | :--- | :--- |
-| 🦠 | **[Gut Pilot](https://github.com/ssolh2906/gut-pilot)**<br/>[▶ Demo](https://youtu.be/TODFMwWbjeA) · 👥 Team of 3 | Human-in-the-loop AI agent for 16S microbiome analysis.<br/>Proposes and cites each pipeline decision.<br/>Started from a real lab bottleneck. | Python · FastAPI<br/>React · Claude API |
-| 🏆 | **[SNP Summary](https://github.com/ssolh2906/BIBI_Bioinformatics_hackathon)**<br/>🥇 SJSU Bioinformatics Hackathon 2025 | RAG app over 3 SNP databases.<br/>Gives researchers fast, cited SNP insights.<br/>Built in 48 hours. | Python · RAG<br/>Gemini API |
-| 🧓 | **[Human Cellular Aging Agent](https://github.com/ssolh2906/Human-Cellular-Aging-Agent)**<br/>🚧 In progress | AI agent for single-cell aging data.<br/>GRN, pseudotime, and perturbation steps. | Python · scRNA-seq<br/>Claude API |
-| 🧪 | **[Gene Expression from Histone Marks](https://github.com/ssolh2906/Predicting-gene-expression-from-histone-modifications)** | Predicts RNA-seq counts from ChIP-seq histone signals.<br/>R = 0.75. | Python<br/>scikit-learn (SVM) |
-| 🎓 | **[Portfolio Workshop](https://github.com/ssolh2906/Portfolio-workshop)**<br/>[▶ Live](https://portfolio-workshop-ten.vercel.app/) | Starter site for my LLM portfolio workshop.<br/>SJSU Bioinformatics Club, Oct 2026. | TypeScript<br/>Next.js · Vercel |
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[Gut Pilot](https://github.com/ssolh2906/gut-pilot)**<br/>[▶ Static demo](https://my-portfolio-five-amber-97.vercel.app/projects/gut-pilot) · [Video](https://youtu.be/TODFMwWbjeA) · Team of 3 | Human-in-the-loop AI agent for 16S microbiome analysis.<br/>Proposes and cites each pipeline decision.<br/>Started from a real lab bottleneck. | Python · FastAPI<br/>React · Claude API |
+| **[SNP Summary](https://github.com/ssolh2906/BIBI_Bioinformatics_hackathon)**<br/>[▶ Static demo](https://my-portfolio-five-amber-97.vercel.app/projects/snp-summary) · 🥇 SJSU Bioinformatics Hackathon 2025 | RAG app over 3 SNP databases.<br/>Gives researchers fast, cited SNP insights.<br/>Built in 48 hours. | Python · RAG<br/>Gemini API |
+| **[Human Cellular Aging Agent](https://github.com/ssolh2906/Human-Cellular-Aging-Agent)**<br/>🚧 In progress | AI agent for single-cell aging data.<br/>GRN, pseudotime, and perturbation steps. | Python · scRNA-seq<br/>Claude API |
+| **[Gene Expression from Histone Marks](https://github.com/ssolh2906/Predicting-gene-expression-from-histone-modifications)**<br/>[▶ Case study](https://my-portfolio-five-amber-97.vercel.app/projects/gene-expression) | Predicts RNA-seq counts from ChIP-seq histone signals.<br/>R = 0.75. | Python<br/>scikit-learn (SVM) |
+| **[Single-cell Lab](https://github.com/ssolh2906/sc-simulator)**<br/>[▶ Live](https://ssolh2906.github.io/sc-simulator/) | Interactive lab for learning scRNA-seq analysis, QC to DE.<br/>Live charts, matching Seurat/Scanpy code, and notes on what a real study did.<br/>Synthetic data, modeled on a COVID-19 PBMC atlas. | TypeScript · Next.js<br/>Canvas/SVG · Vitest |
 
-### 🔬 Research
+### Research
 
-- 🌳 **MS thesis: Hierarchical 16S rRNA Classifier**
+- **MS thesis: Hierarchical 16S rRNA Classifier**
   - Two-stage Naive Bayes on 301K SILVA sequences. 98.18% family accuracy.
   - Leakage-safe splits. Next: tree-aware post-hoc reconciliation.
-- 🕸️ **Biomedical Knowledge-Graph Entity Normalization** · co-author, under revision
+- **Biomedical Knowledge-Graph Entity Normalization** · co-author, under revision
   - Grounded 28,558 mentions to standard IDs.
-- 📝 **WaterUrPlant: IoT plant monitoring** · KCC 2022, primary author
+- **WaterUrPlant: IoT plant monitoring** · KCC 2022, primary author
 
 ---
 
-### 💼 Experience
+### Experience
 
-- 📱 **Supergene.CO** · Software Engineer · 2022 – 2023
+- **Supergene.CO** · Software Engineer · 2022 – 2023
   - Kotlin Android modules for an app with 100K+ members. Clean Architecture.
   - JUnit unit and integration tests (TDD) for async, API-heavy features.
   - Custom carousel with exponential motion curves. No library had it.
-- 🤖 **Gazzi Labs (AI Labs)** · Data Labeling Intern · 2021 – 2022
+- **Gazzi Labs (AI Labs)** · Data Labeling Intern · 2021 – 2022
   - Python tool for daily team reports. Saved 4 hours a day.
 
-### 🤝 Community
+### Community
 
-- 🧬 **SJSU Bioinformatics Club** · Vice President 2025 · Board Member now
-- 🎤 Hosted the 2026 club hackathon.
-- 🐧 Taught Linux and LLM portfolio workshops to members of all majors.
-- 🥇 **2× Hackathon Champion** · SJSU Bioinformatics 2025 · Silicon Valley Koreans 2023
+- **SJSU Bioinformatics Club** · Vice President 2025 · Board Member now
+- Hosted the 2026 club hackathon.
+- Taught Linux and LLM portfolio workshops to members of all majors.
+- **2× Hackathon Champion** · SJSU Bioinformatics 2025 · Silicon Valley Koreans 2023
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Production-ready**
 
@@ -91,7 +91,7 @@
 
 ---
 
-### 🎓 Education
+### Education
 
 - **San José State University** · MS in Bioinformatics, Dept. of Computer Science · May 2027
   - GPA 3.94 / 4.0 · Top final-exam score in both graduate statistics courses
